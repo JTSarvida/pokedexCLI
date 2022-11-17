@@ -1,0 +1,3 @@
+class PokedexCli::CLI
+    
+end
